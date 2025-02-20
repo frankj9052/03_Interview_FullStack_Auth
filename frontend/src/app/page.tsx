@@ -10,7 +10,7 @@ export default function Home() {
           className="text-6xl text-center pt-8"
         >This is Home Page</h1>
         <div
-          className="flex items-center justify-center gap-4 mt-16"
+          className="flex items-center justify-center gap-4 my-16"
         >
           <Link
             href='/register'
